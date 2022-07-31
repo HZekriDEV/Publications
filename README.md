@@ -1,7 +1,7 @@
 # Publications
 A list of my published work
 
-1.	*"A Model for Procedurally Generated Environments in a Dynamic Driving Simulator to Train Persons with Autism Spectrum Disorder"*
+1.	*A Model for Procedurally Generated Environments in a Dynamic Driving Simulator to Train Persons with Autism Spectrum Disorder*
     Poster Presented at the USF Undergraduate Research Conference (March 2022)
     
     ![Hakim Zekri DrivingSimulator USF UGR Poster](https://user-images.githubusercontent.com/62521050/182042447-6357abce-272e-478b-8fbe-3de71ce8010e.svg)
