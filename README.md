@@ -10,4 +10,4 @@ A list of my published work
 2.	*Targeted Scenarios to Train Persons with Autism Spectrum Disorder to Overcome Driving Skill Challenges*
     Poster Presented at the USF Undergraduate Research Conference (March 2022)
     
-![Turner, Ross DrivingSimulator USF UGR Poster](https://user-images.githubusercontent.com/62521050/182042520-b53af31f-d17b-45ac-b46b-fc034dcdff8b.svg)
+    ![Turner, Ross DrivingSimulator USF UGR Poster](https://user-images.githubusercontent.com/62521050/182042520-b53af31f-d17b-45ac-b46b-fc034dcdff8b.svg)
